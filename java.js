@@ -7,6 +7,7 @@ let isAlive = true
 let message = ""
 let sumEl = document.getElementById("sum-el")
  let messageEL = document.getElementById("message-el")
+ let cardEL = document.getElementById("card-el")
 
 
 function getRandomcard(){
