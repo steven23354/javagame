@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: rgba(15, 59, 15, 0.919);
+    color:aliceblue;
+    font-weight:bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: rgba(176, 63, 63, 0.829);
+    border-radius: 5px;
+    background-color: goldenrod;
+    font-weight: bold ;
+
+
+}
+#message-El{ 
+   font-size: large;
+   font-style: italic;
+
+}
+h1{
+    color: goldenrod;
+
+}
